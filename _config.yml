@@ -22,10 +22,10 @@ repository               : "zouj-0124/zouj-0124.github.io"
 author:
   # Biographic information
   avatar           : "zouj.png"
-  name             : "Jiabiao.Zou(邹家标)"
+  name             : "Jiabiao.Zou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Saudi Arabia"
+  bio              : "(邹家标)"
+  location         : "Saudi Arabia | KAUST"
   employer         : "King Abdullah University of Science and Technology"
   uri              : # URL
   email            : "jiabiao.zou@kaust.edu.sa" 
