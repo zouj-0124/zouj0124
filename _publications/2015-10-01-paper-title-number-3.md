@@ -1,14 +1,40 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: '1.	J.B. Zou*, M. Adil, A. Elkhazraji, A. Farooq*, Interaction chemistry of ammonia and formaldehyde: Multi-species measurements and kinetic modeling, Proc. Combust. Inst. 40 (2024) 105424.'
+excerpt: '2.	J.B. Zou*, C.S. Lewin, W.Y. Chen, C. Xie, Z.D. Wang, J. Bourgalais*, O. Herbinet, F. Battin-Leclerc, A. Farooq*, The cool-flame chemistry of tetrahydropyran: Insights into oxygenated heterocyclic ring dynamics, Proc. Combust. Inst. 40 (2024) 105374.'
+excerpt: '3.	M. Sy, J.B. Zou*, M. Adil, A. Elkhazraji, M. Mhanna, A. Farooq*, Laser-based speciation of isoprene thermal decomposition behind reflected shock waves, Proc. Combust. Inst. 40 (2024) 105460.'
+excerpt: '4.	J.B. Zou, J.G. Zhang, T.Y. Lian, B.W. Mei, Y.Y. Li*, Interaction of hydrogen and nitric oxide in outwardly propagating spherical flame: Insight into non-hydrocarbon NOX reduction mechanism, Proc. Combust. Inst. 39 (2023) 4299-4307.'
+excerpt: '5.	J.B. Zou, T.Y. Lian, Q. Xu, B.Z. Liu, Z.D. Wang, J.Z. Yang, Y.Y. Li*, Conformation-dependent low-temperature oxidation chemistry of methylcyclohexane: First oxygen addition and chain-branching, Combust. Flame, 243 (2021) 111963.'
+excerpt: '6.	J.B. Zou, Y.Y. Li*, L.L. Ye*, H.F. Jin, A comprehensive study on low-temperature chemistry of cyclohexane oxidation. I. Conformational analysis and theoretical study of first and second oxygen addition, Combust. Flame, 235 (2021) 111658.'
+excerpt: '7.	J.B. Zou, H.F. Jin, D.P. Liu, X.Y. Zhang, H.J. Su, J.Z. Yang, A. Farooq, Y.Y. Li*, A comprehensive study on low-temperature chemistry of cyclohexane oxidation. II. Experimental and kinetic modeling investigation, Combust. Flame, 235 (2021) 111550.'
+excerpt: '8.	J.B. Zou, X.Y. Zhang, Y.Y. Li*, L.L. Ye, L.L. Xing, W. Li, C.C. Cao, Y.T. Zhai, F. Qi, J.Z. Yang, Experimental and kinetic modeling investigation on ethylcyclohexane low-temperature oxidation in a jet-stirred reactor, Combust. Flame 214 (2020) 211-223.'
+excerpt: '9.	J.B. Zou, W. Li, L.L. Ye, X.Y. Zhang, Y.Y. Li*, J.Z. Yang, F. Qi*, Exploring the low-temperature oxidation chemistry of cyclohexane in a jet-stirred reactor: An experimental and kinetic modeling study, Chinese Journal of Chemical Physics 31 (2018) 537-546.'
+excerpt: '10.	A. Elkhazraji, Q. Wang, M. Monge-Palacios, J.B. Zou, A. Alshaarawi, A.C. Sepulveda, S.M. Sarathy, A. Farooq, Oxidation of hydrogen sulfide and CO2 mixtures: Laser-based multi-speciation and kinetic modeling, J. Chem. Eng. 486 (2024) 150421.'
+excerpt: '11.	Y. Zhang, C.C. Cao, B.W. Mei, J.B. Zou, L. Zhao, J.Z. Yang, Y.Y. Li, Investigation on n-pentylbenzene combustion at various pressures: Insight into effects of side-chain length on alkylbenzene combustion, Combust. Flame 238 (2022) 111976.'
+excerpt: '12.	Y. Zhang, X.Y. Zhang, C.C. Cao, J.B. Zou, T.Y. Li, J.Z. Yang, L.L. Ye, Y.Y. Li, Flow reactor pyrolysis of iso-butylbenzene and tert-butylbenzene at various pressures: Insight into fuel isomeric effects on pyrolysis chemistry of butylbenzenes, Proc. Combust. Inst. 38 (2021) 1423-1432.'
+excerpt: '13.	X.Y. Zhang*, C.C. Cao, J.B. Zou, Y. Li, Y. Zhang, J.J. Guo, Q. Xu, B.B. Feng, S.M. Sarathy, J.Z. Yang, Z.D. Wang, F. Qi, Y.Y. Li*, Low-temperature oxidation chemistry of 2,4,4-trimethyl-1-pentene (diisobutylene) triggered by dimethyl ether (DME): A jet-stirred reactor oxidation and kinetic modeling investigation, Combust. Flame 234 (2021) 111629.'
+excerpt: '14.	Y.T. Zhai, B.B. Feng, Y. Zhang, B.W. Mei, J.B. Zou, J.Z. Yang, L.D. Zhang*, S.M. Sarathy, Experimental and kinetic modeling study of methyl heptanoate low-temperature oxidation in a jet-stirred reactor, Fuel 283 (2021) 118885.'
+excerpt: '15.	Y.Y. Li*, J.B. Zou, W.H. Yuan, C.C. Cao, Y. Zhang, F. Qi, J.Z. Yang, Unraveling chemical structure of laminar premixed tetralin flames at low pressure with photoionization mass spectrometry and kinetic modeling, Int. J. Chem. Kinet. 53 (2021) 154-163.'
+excerpt: '16.	W. Li, C.C. Cao, X.Y. Zhang, Y.Y. Li*, J.Z. Yang, J.B. Zou, B.W. Mei, Z.J. Cheng, Exploring combustion chemistry of ethyl valerate at various pressures: Pyrolysis, laminar burning velocity and kinetic modeling, Combust. Flame 227 (2021) 27-38.'
+excerpt: '17.	W. Li, L.L. Ye, Q.L. Fang, J.B. Zou, J.Z. Yang, Y.Y. Li*, Exploration on Thermal Decomposition of Cyclopentanone: A Flow Reactor Pyrolysis and Kinetic Modeling Study, Energy Fuels 35 (2021) 14023-14034.'
+excerpt: '18.	Y. Zhang, X.Y Zhang, C.C Cao, J.B Zou, T.Y. Li, J.Z. Yang, L.L. Ye, Y.Y. Li*, Flow reactor pyrolysis of iso-butylbenzene and tert-butylbenzene at various pressures: Insight into fuel isomeric effects on pyrolysis chemistry of butylbenzenes, Proc. Combust. Inst. 38 (2021) 1423-1432.'
+excerpt: '19.	X.Y. Zhang, J.B. Zou, C.C. Cao, W.Y. Chen, J.Z. Yang, F. Qi, Y.Y. Li*, Exploring the low-temperature oxidation chemistry of 1-butene and i-butene triggered by dimethyl ether, Proc. Combust. Inst. 38 (2021) 289-298.'
+excerpt: '20.	C.C. Cao, X.Y. Zhang, Y. Zhang, J.B. Zou, Y.Y. Li*, J.Z. Yang, F. Qi*, Probing the fuel-specific intermediates in the low-temperature oxidation of 1-heptene and modeling interpretation, Proc. Combust. Inst. 38 (2021) 385-394.'
+excerpt: '21.	H.J. Su, J.L. Wang, J.B. Zou, Q. Xu, J.Z. Yang, Z.J. Cheng*, L.X. Wei*, Experimental and Kinetic Modeling Studies of 3-Methylfuran Pyrolysis at Low and Atmospheric Pressures, Energy Fuels 34 (2020) 981-988.'
+excerpt: '22.	H.F. Jin, D.P. Liu, J.B. Zou, J.Y. Hao, C. Shao, M. Sarathy, A. Farooq*, Chemical kinetics of hydroxyl reactions with cyclopentadiene and indene, Combust. Flame 217 (2020) 48-56.'
+excerpt: '23.	X.Y. Zhang, Y. Zhang, T.Y. Li, Y.Y. Li*, J.B. Zou, P. Dagaut*, J. Yang, W. Li, M. Zeng, H. Jin, W. Yuan, F. Qi*, Low-temperature chemistry triggered by probe cooling in a low-pressure premixed flame, Combust. Flame 204 (2019) 260-267.'
+excerpt: '24.	X.Y. Zhang, Y.Y. Li*, C.C. Cao, J.B. Zou, Y. Zhang, W. Li, T.Y. Li, J.Z. Yang, P. Dagaut, New insights into propanal oxidation at low temperatures: An experimental and kinetic modeling study, Proc. Combust. Inst. 37 (2019) 565-573.'
+excerpt: '25.	W.H. Yuan, T.Y. Li, Y.Y. Li*, M.R. Zeng, Y. Zhang, J.B. Zou, C.C. Cao, W. Li, J.Z. Yang, F. Qi, Experimental and kinetic modeling investigation on anisole pyrolysis: Implications on phenoxy and cyclopentadienyl chemistry, Combust. Flame 201 (2019) 187-199.'
+excerpt: '26.	L.N. Wu, Z.Y. Tian*, J.J. Weng, D. Yu, Y.X. Liu, D.X. Tian, C.C. Cao, J.B. Zou, Y. Zhang, J.-Z. Yang, Experimental and kinetic study on the low-temperature oxidation of pyridine as a representative of fuel-N compounds, Combust. Flame 202 (2019) 394-404.'
+excerpt: '27.	J.J. Weng, Z.Y. Tian*, K.W. Zhang, L.L. Ye, Y.X. Liu, L.N. Wu, D. Yu, J.Z. Yang, C.C. Cao, J.B. Zou, Experimental and kinetic investigation of pyrolysis and oxidation of nitromethane, Combust. Flame 203 (2019) 247-254.'
+excerpt: '28.	W. Li, Y. Zhang, B.W. Mei, Y.Y. Li*, C.C. Cao, J.B. Zou, J.Z. Yang, Z.J. Cheng*, Experimental and kinetic modeling study of n-propanol and i-propanol combustion: Flow reactor pyrolysis and laminar flame propagation, Combust. Flame 207 (2019) 171-185.'
+excerpt: '29.	C.C. Cao, Y. Zhang, X.Y. Zhang, J.B. Zou, F. Qi, Y.Y. Li*, J.Z. Yang*, Experimental and kinetic modeling study on flow reactor pyrolysis of iso-pentanol: Understanding of iso-pentanol pyrolysis chemistry and fuel isomeric effects of pentanol, Fuel 257 (2019).'
+excerpt: '30.	C.J. Liu, L.L. Ye, W.H. Yuan, Y. Zhang, J.B. Zou, J.Z. Yang, Y.Z. Wang, F. Qi, Z.Y. Zhou*, Investigation on pyrolysis mechanism of guaiacol as lignin model compound at atmospheric pressure, Fuel 232 (2018) 632-638.'
+excerpt: '31.	W. Li, G.Q. Wang, Y.Y. Li*, T.Y. Li, Y. Zhang, C.C. Cao, J.B. Zou, C.K. Law**, Experimental and kinetic modeling investigation on pyrolysis and combustion of n-butane and i-butane at various pressures, Combust. Flame 191 (2018) 126-141.'
+excerpt: '32.	L. Zhao, T. Yang, R.I. Kaiser*, T.P. Troy, B. Xu, M. Ahmed, J. Alarcon, D. Belisario-Lara, A.M. Mebel, Y. Zhang, C. Cao, J.B. Zou, A vacuum ultraviolet photoionization study on high-temperature decomposition of JP-10 (exo-tetrahydrodicyclopentadiene), Phys. Chem. Chem. Phys. 19 (2017) 15780-15807.'
+excerpt: '33.	X.Y. Zhang, G.Q. Wang, J.B. Zou, Y.Y. Li*, W. Li, T.Y. Li, H.F. Jin, Z.Y. Zhou, Y.Y. Lee, Investigation on the oxidation chemistry of methanol in laminar premixed flames, Combust. Flame 180 (2017) 20-31.'
+excerpt: '34.	M.R. Zeng, W.H. Yuan*, W. Li, Y. Zhang, C.C. Cao, T.Y. Li, J.B. Zou, Comprehensive Experimental and Kinetic Modeling Study of n-Tetradecane Combustion, Energy Fuels 31 (2017) 12712-12720.'
+excerpt: '35.	T.Y. Li, J.B. Zou, Y. Zhang, C.C. Cao, W. Li, W.H. Yuan*, Numerical Investigation on 1,3-Butadiene/Propyne Co-pyrolysis and Insight into Synergistic Effect on Aromatic Hydrocarbon Formation, Chin. J. Chem. Phys. 30 (2017) 287-294.'
+
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
