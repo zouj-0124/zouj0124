@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-
    <div class="wordwrap">1.	J.B. Zou, C.J. Hong, T. A. Kashif, J. Subburaj, and A. Farooq, Time-resolved speciation of shock-heated hydrogen/NO and hydrogen/CO2 high-temperature oxidation, 2025 AIAA SciTech,, Florida, 12nd-16th January 2025. (Oral presentation).
    <div class="wordwrap">2.	J.B. Zou, E. Thachil, A. Farooq, Laser-based speciation of NH3/N2O/O2 oxidation behind reflected shock waves, Shanghai, China, 23rd-26th September, 2024. (Oral presentation)
    <div class="wordwrap">3.	J.B. Zou, M. Adil, A. Elkhazraji, M. Mhanna, A. Farooq, Multi-species time history measurements and comprehensive kinetics modeling of nitrogenous combustion: Interaction of ammonia with NO and N2O, 2nd Symposium on Ammonia Energy, Orléans, France, 11st -13th July 2023. (Oral presentation)
@@ -17,3 +15,12 @@ author_profile: true
    <div class="wordwrap">8.	J.B. Zou, X.Y. Zhang, Y.Y. Li*, C.C. Cao, J.Z. Yang, F. Qi, Experimental and kinetic modeling study of low-temperature oxidation of ethylcyclohexane. 12th Asia-Pacific Conference on Combustion, Fukuoka, Japan, 1st -5th July 2019. (Oral presentation)
    <div class="wordwrap">9.	J.B. Zou, Y.Y. Li*, Y. Zhang, C.C. Cao, T.Y. Li, W. Li, M.R. Zeng, F. Qi, Ethylcyclohexane oxidation at low to intermediate temperatures: a conformational analysis and experimental investigation. China national symposium on combustion, Nanjing, Jiangsu, China, 13rd -15th October 2017. (Oral presentation)
 
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
